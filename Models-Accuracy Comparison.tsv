@@ -1,0 +1,4 @@
+Models	Accuracy
+Logistic Regression	0.78
+Gaussian NB	0.79
+Randon Forest	0.80

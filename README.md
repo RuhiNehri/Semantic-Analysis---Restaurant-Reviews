@@ -1,4 +1,4 @@
-# Semantic-Analysis---Restaurant-Reviews
+# Sentiment-Analysis---Restaurant-Reviews
 NLP analysis of Restaurant reviews
 
 Restaurant reviews means critique of a restaurant, rating of a restaurant's qualities (food, service, prices, etc.) given by customers visited the restaurant. The importance of online reviews for restaurants has skyrocketed in recent years. Doing your best to gather positive restaurant reviews as examples of your stellar service should be a priority for any restaurant owner. It’s how customers choose the places where they’ll extend their patronage.
